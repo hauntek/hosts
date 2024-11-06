@@ -11,7 +11,7 @@ CDN Url: ``` https://cdn.staticaly.com/gh/shidahuilang/hosts/main/hosts ```    `
 ## Used  
 Windows/MacOS:  
 ```
-推荐使用 SwitchHosts, 官网查看：https://swh.app/zh
+推荐使用 SwitchHosts
 ```
 ![image](https://github.com/shidahuilang/hosts/raw/main/1.png)
 
